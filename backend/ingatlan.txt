@@ -1,3 +1,0 @@
-TÁBLANEVE(mezonev1,mezonev2,mezonev3)
-Táblaneve:
-1. mezonev1int(11),PK
